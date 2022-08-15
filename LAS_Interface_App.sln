@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAS_Interface_App", "LAS_Interface_App\LAS_Interface_App.csproj", "{59B41F2F-3289-43B0-A442-34309FCA7138}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccuLib", "AccuLib\AccuLib.csproj", "{C9C5EEE5-F242-478C-B40F-5FB43047BEC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59B41F2F-3289-43B0-A442-34309FCA7138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59B41F2F-3289-43B0-A442-34309FCA7138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59B41F2F-3289-43B0-A442-34309FCA7138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59B41F2F-3289-43B0-A442-34309FCA7138}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9C5EEE5-F242-478C-B40F-5FB43047BEC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9C5EEE5-F242-478C-B40F-5FB43047BEC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9C5EEE5-F242-478C-B40F-5FB43047BEC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9C5EEE5-F242-478C-B40F-5FB43047BEC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {737C2A2D-984A-41ED-B3B6-7A46112739DB}
+	EndGlobalSection
+EndGlobal
