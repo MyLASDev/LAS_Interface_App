@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AccuLib
 {
-    public class Lib
+    public class clsLib
     {
         public static string getName()
         {

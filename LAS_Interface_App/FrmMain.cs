@@ -22,7 +22,7 @@ namespace LAS_Interface_App
 
         private void FrmMain_Load(object sender, EventArgs e)
         {
-            MessageBox.Show(Lib.getName());
+            MessageBox.Show(clsLib.getName());
         }
     }
 }
